@@ -1,0 +1,19 @@
+header{
+  width: 100%;
+  height: auto;
+  background-color: rgb(184, 28, 28);
+  padding: .6em 0;
+  color: rgb(242, 245, 81);
+}
+
+.main{
+  display: flex;
+  justify-content: space-between;
+}
+
+nav{
+  display: flex;
+  flex-direction: row;
+  width: 40%;
+  justify-content: space-between;
+}

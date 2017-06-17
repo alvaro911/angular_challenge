@@ -1,1 +1,29 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700');
+
+body, html{
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro'
+}
+
+*{
+  box-sizing: border-box;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+a{
+  text-decoration: none;
+}
+
+li{
+  list-style: none;
+}
+
+.main{
+  width: 90%;
+  margin: 0 auto;
+}
