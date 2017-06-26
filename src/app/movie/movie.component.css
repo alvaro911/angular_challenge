@@ -1,0 +1,25 @@
+.movie{
+  margin-top: 2em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.movie-image{
+  width: 30%;
+  height: auto;
+}
+
+.movie-info{
+  width: 65%;
+}
+
+h2{
+  margin-top: 0;
+  font-size: 2.5em;
+}
+
+article{
+  font-size: 18px;
+  line-height: 1.5;
+}
